@@ -1,0 +1,101 @@
+merchant_id,restaurant_name,location,city,state,owner_name,phone,email,created_at
+M0001,Ghati Sip,97 Ramachandran Chowk,Mumbai,Maharashtra,Bhamini Boase,9083172788,bhamini.boase@gmail.com,2025-03-25 22:54:05
+M0002,Curry Bistro,H.No. 013 Borah Nagar,Mumbai,Maharashtra,Kimaya Krishna,8798687277,kimaya.krishna@gmail.com,2024-11-24 18:32:24
+M0003,Flavour Munch,49/67 Bobal Marg,Nagpur,Maharashtra,Ojas Tank,8348734714,ojas.tank@gmail.com,2023-03-11 18:35:50
+M0004,Spice Court,88 Kara Road,Pune,Maharashtra,Taran Venkataraman,7455812236,taran.venkataraman@gmail.com,2018-06-18 16:58:51
+M0005,Garden Palace,265 Badami Zila,Pune,Maharashtra,Diya Balasubramanian,7316658760,diya.balasubramanian@gmail.com,2024-05-30 19:12:20
+M0006,Bombay Tadka,35 SG Highway,Bangalore,Karnataka,Ojas Verma,6912083745,ojas.verma@gmail.com,2025-12-01 11:15:42
+M0007,Sonic Dine,12 Sector 15,Delhi,Delhi,Karan Patel,6792345812,karan.patel@gmail.com,2023-08-07 09:23:55
+M0008,Bombay Dine,77 Sector 21,Noida,Uttar Pradesh,Pooja Menon,8765321049,pooja.menon@gmail.com,2022-09-14 20:14:17
+M0009,Urban Palace,22 MG Road,Bangalore,Karnataka,Varun Kapoor,9876543210,varun.kapoor@gmail.com,2019-01-05 13:05:29
+M0010,Urban Corner,17 Connaught Place,New Delhi,Delhi,Sneha Reddy,9765432198,sneha.reddy@gmail.com,2021-03-20 17:25:10
+M0011,Blue Nook,110 Cantonment Road,Surat,Gujarat,Manish Gupta,8654321097,manish.gupta@gmail.com,2022-12-12 10:18:04
+M0012,Green Corner,5 Apollo Street,Ahmedabad,Gujarat,Rajesh Kumar,7987654321,rajesh.kumar@gmail.com,2023-07-01 15:47:55
+M0013,Sonic Garden,74 Daryaganj,Kolkata,West Bengal,Anjali Bose,9801234567,anjali.bose@gmail.com,2020-11-30 08:09:12
+M0014,Urban Nook,29 MG Marg,Kolkata,West Bengal,Amit Singh,9123456789,amit.singh@gmail.com,2021-05-16 12:34:56
+M0015,Mango Bistro,8 Civil Lines,Lucknow,Uttar Pradesh,Kavita Singh,9988776655,kavita.singh@gmail.com,2019-08-21 14:05:36
+M0016,Brew Point,60 Janpath,Chennai,Tamil Nadu,Nikhil Iyer,9012345678,nikhil.iyer@gmail.com,2024-02-18 09:47:33
+M0017,Global Tadka,402 Charminar Road,Hyderabad,Telangana,Radhika Reddy,8877665544,radhika.reddy@gmail.com,2022-06-10 18:22:11
+M0018,Tasty Corner,15 Beach Street,Chennai,Tamil Nadu,Deepak Nair,9321876540,deepak.nair@gmail.com,2020-02-29 11:53:27
+M0019,Tasty Sip,90 Gandhi Road,Ahmedabad,Gujarat,Meena Patel,8790112233,meena.patel@gmail.com,2025-10-05 21:45:19
+M0020,Blue Munch,33 Sector 17,Panaji,Goa,Sunil D’Souza,7012345678,sunil.dsouza@gmail.com,2023-01-11 16:02:08
+M0021,Golden Sip,85 MG Road,Chandigarh,Chandigarh,Akash Singh,8800123456,akash.singh@gmail.com,2021-04-29 10:30:45
+M0022,Saffron Kitchen,151 Sector 4,Jaipur,Rajasthan,Richa Sharma,7654321890,ritika.sharma@gmail.com,2024-06-22 08:58:17
+M0023,Ghati House,27 Hill Road,Mumbai,Maharashtra,Nitin Kapoor,9898989898,nitin.kapoor@gmail.com,2019-12-31 22:10:01
+M0024,Masala Eats,140 Laketown,Kolkata,West Bengal,Shreya Gupta,6987654321,shreya.gupta@gmail.com,2022-11-02 07:49:39
+M0025,Rustic Point,50 Brigade Road,Bangalore,Karnataka,Neha Singh,9876501234,neha.singh@gmail.com,2021-07-04 14:11:27
+M0026,Sonic House,200 Model Town,Lucknow,Uttar Pradesh,Suresh Rathi,9120304050,suresh.rathi@gmail.com,2023-09-15 18:36:04
+M0027,Urban Point,75 MG Road,Bengaluru,Karnataka,Kajal Menon,9765123045,kajal.menon@gmail.com,2022-03-09 12:54:53
+M0028,Masala Tadka,63 New ST Road,Pune,Maharashtra,Farah Khan,9981122334,farah.khan@gmail.com,2020-10-30 15:19:22
+M0029,Tasty Corner,19 Elvis St,Chennai,Tamil Nadu,Ravi Prasad,9830123456,ravi.prasad@gmail.com,2024-08-01 20:14:59
+M0030,Punjabi Palace,5 Sector 9,Patna,Bihar,Arjun Singh,9122334455,arjun.singh@gmail.com,2021-09-17 11:42:03
+M0031,Mango Dine,102 MG Road,Navi Mumbai,Maharashtra,Ritu Reddy,9988776655,ritu.reddy@gmail.com,2022-12-25 16:33:47
+M0032,Blue Garden,37 Airport Road,Indore,Madhya Pradesh,Amit Verma,9876503210,amit.verma@gmail.com,2023-04-08 19:05:11
+M0033,Green Corner,65 GT Road,Guwahati,Assam,Neha Das,8797684321,neha.das@gmail.com,2025-02-13 08:22:29
+M0034,Garden Cafe,8 Station Road,Vadodara,Gujarat,Mohan Patel,9123680745,mohan.patel@gmail.com,2024-07-18 17:50:36
+M0035,Flavour Garden,145 Stallion Road,Mumbai,Maharashtra,Anita Rao,9987012345,anita.rao@gmail.com,2020-01-27 09:33:50
+M0036,Curry Court,132 Sector 10,Chandigarh,Chandigarh,Varun Sharma,7012345679,varun.sharma@gmail.com,2022-10-09 22:17:12
+M0037,Spice Munch,29 College Avenue,Bhubaneswar,Odisha,Manish Tiwari,9870192834,manish.tiwari@gmail.com,2021-06-30 12:46:29
+M0038,Flavour Hub,23 Market Lane,Kochi,Kerala,Sneha Pillai,8792123456,sneha.pillai@gmail.com,2023-05-04 13:28:44
+M0039,Spice Point,17 Civic Center,Faridabad,Haryana,Rakesh Gupta,9765432109,rakesh.gupta@gmail.com,2024-09-20 15:52:07
+M0040,Green Dine,58 Dover Road,Pune,Maharashtra,Nidhi Shah,8301234576,nidhi.shah@gmail.com,2022-02-14 19:24:31
+M0041,Pepper Hub,88 Park Street,Kolkata,West Bengal,Deepa Roy,9123450987,deepa.roy@gmail.com,2025-11-11 10:37:56
+M0042,Masala House,49 Zakir Husain Road,Kochi,Kerala,Suraj Menon,8899123456,suraj.menon@gmail.com,2023-08-28 14:19:21
+M0043,Golden Nook,14 Station Road,Jammu,Jammu and Kashmir,Harish Kumar,9122330099,harish.kumar@gmail.com,2019-03-22 17:58:03
+M0044,Blue Cafe,9 Police Line,Bhopal,Madhya Pradesh,Manisha Dixit,7856123490,manisha.dixit@gmail.com,2021-10-07 08:49:40
+M0045,Green Bistro,11 Sector 3,Raipur,Chhattisgarh,Ravi Shankar,8765123049,ravi.shankar@gmail.com,2023-01-05 16:25:18
+M0046,Global Dine,333 Station Road,Hyderabad,Telangana,Anand Varma,9012456873,anand.varma@gmail.com,2022-07-27 20:16:54
+M0047,Urban Palace,29 Residency Road,Pune,Maharashtra,Poonam Shah,9765432101,poonam.shah@gmail.com,2024-05-12 21:40:26
+M0048,Sonic Bistro,47 Circular Road,Gurgaon,Haryana,Sunita Verma,8881234567,sunita.verma@gmail.com,2020-04-20 09:14:38
+M0049,Rustic Kitchen,5 Station Road,Patna,Bihar,Karan Bhatnagar,9987654320,karan.bhatnagar@gmail.com,2021-11-29 18:47:12
+M0050,Pepper Palace,2 Sector 5,Agra,Uttar Pradesh,Naveen Gupta,9345126789,naveen.gupta@gmail.com,2022-08-14 07:23:55
+M0051,Mahra House,200 Sector 12,Amritsar,Punjab,Suman Lamba,9012783456,suman.lamba@gmail.com,2024-03-18 12:37:22
+M0052,Spice Pantry,88 Tansen Road,Lucknow,Uttar Pradesh,Arvind Singh,8734501923,arvind.singh@gmail.com,2020-05-09 14:25:08
+M0053,Urban Grill,63 Station Road,Ludhiana,Punjab,Meera Singh,7654321890,meera.singh@gmail.com,2023-06-21 18:51:33
+M0054,Tasty Kitchen,4 Apollo Bazzar,Madurai,Tamil Nadu,Kiran Iyer,9345678901,kiran.iyer@gmail.com,2025-01-06 11:02:49
+M0055,Green House,77 Belle View,Cochin,Kerala,Komal Menon,9901236547,komal.menon@gmail.com,2019-07-31 09:59:27
+M0056,Blue Court,14 Ridge Road,Shimla,Himachal Pradesh,Vikram Sharma,9501234567,vikram.sharma@gmail.com,2022-02-18 23:07:14
+M0057,Tasty Table,19 Central Avenue,Nagpur,Maharashtra,Nisha Rao,9004561237,nisha.rao@gmail.com,2023-10-27 17:42:03
+M0058,Golden Dhaba,55 Ridge Street,Kolkata,West Bengal,Ankur Mukherjee,9987651234,ankur.mukherjee@gmail.com,2021-08-13 16:33:55
+M0059,Curry Court,16 Station Road,Surat,Gujarat,Priya Shah,8765432190,priya.shah@gmail.com,2024-04-30 14:58:26
+M0060,Blue Cafe,31 Sector 17,Ahmedabad,Gujarat,Sandeep Mehta,9876543219,sandeep.mehta@gmail.com,2023-03-21 19:26:48
+M0061,Urban Point,92 Circular Street,Bangalore,Karnataka,Reena Rao,7012346589,reena.rao@gmail.com,2022-12-01 12:12:12
+M0062,Green Bistro,15 New Market,Patiala,Punjab,Vinod Singh,9981122334,vinod.singh@gmail.com,2019-10-10 15:14:27
+M0063,Golden Grill,72 Sector 16,Lucknow,Uttar Pradesh,Laxmi Chaudhary,9456123789,laxmi.chaudhary@gmail.com,2024-11-02 20:38:10
+M0064,Curry Corner,44 North End Road,Raipur,Chhattisgarh,Sunil Nair,9876601234,sunil.nair@gmail.com,2021-01-17 10:58:46
+M0065,Spice Dhaba,8 Sector 21,Visakhapatnam,Andhra Pradesh,Ram Prasad,7901234568,ram.prasad@gmail.com,2020-09-05 14:05:23
+M0066,Masala Munch,3 East Patel Nagar,Delhi,Delhi,Rekha Gupta,8765432191,rekha.gupta@gmail.com,2022-06-11 21:45:11
+M0067,Blue Eats,27 MG Marg,New Delhi,Delhi,Rajeev Sharma,9012365478,rajeev.sharma@gmail.com,2023-09-25 08:39:24
+M0068,Green Corner,90 MG Road,Kolkata,West Bengal,Saket Banerjee,9212345678,saket.banerjee@gmail.com,2019-04-23 18:52:37
+M0069,Urban Nook,17 Station Road,Kolkata,West Bengal,Tara Saha,9234506789,tara.saha@gmail.com,2024-10-13 13:57:46
+M0070,Tasty Sip,60 King George's Road,Indore,Madhya Pradesh,Ram Singh,9871230456,ram.singh@gmail.com,2023-05-29 15:17:09
+M0071,Golden Eatery,8 Station Road,Hyderabad,Telangana,Kumari Das,9981234569,kumari.das@gmail.com,2021-08-05 17:28:33
+M0072,Urban Grill,19 Park Street,Kolkata,West Bengal,Naresh Bhatt,7890123456,naresh.bhatt@gmail.com,2020-06-19 19:34:21
+M0073,Green Dhaba,13 Central Avenue,Vadodara,Gujarat,Divya Patel,9123450567,divya.patel@gmail.com,2022-12-09 21:11:48
+M0074,Saffron House,74 Millers Lane,Jalandhar,Punjab,Kamal Singh,9987456123,kamal.singh@gmail.com,2019-11-28 08:49:02
+M0075,Masala Sip,29 MG Marg,Bangalore,Karnataka,Rakesh Iyer,9812340675,rakesh.iyer@gmail.com,2024-07-15 16:22:14
+M0076,Golden Eats,6 Station Road,Bhopal,Madhya Pradesh,Karan Mehta,9534120768,karan.mehta@gmail.com,2021-05-22 12:17:35
+M0077,Pepper Court,88 Station Road,Faridabad,Haryana,Sai Kumar,9670123456,sai.kumar@gmail.com,2022-03-19 10:04:41
+M0078,Green Tadka,101 Station Road,Mumbai,Maharashtra,Kamal Verma,9874561023,kamal.verma@gmail.com,2024-01-07 18:55:09
+M0079,Urban House,17 Sector 18,Jaipur,Rajasthan,Pooja Sharma,9981023456,pooja.sharma@gmail.com,2023-07-22 14:03:50
+M0080,Blue Bites,34 Park Street,Kolkata,West Bengal,Nikhil Sengupta,9765120834,nikhil.sengupta@gmail.com,2020-08-30 15:58:27
+M0081,Sonic Sip,5 Avenue Road,Ahmedabad,Gujarat,Varun Patel,9387456120,varun.patel@gmail.com,2022-10-14 11:37:01
+M0082,Green Bowl,123 Pilot Line,Kolkata,West Bengal,Swati Chatterjee,9701234568,swati.chatterjee@gmail.com,2019-12-19 09:16:02
+M0083,Golden Bistro,29 Park Street,Hyderabad,Telangana,Mohit Reddy,8987651230,mohit.reddy@gmail.com,2023-11-08 20:52:15
+M0084,Urban Dine,87 Sector 9,Chennai,Tamil Nadu,Riya Desai,9012745863,riya.desai@gmail.com,2021-04-14 13:28:40
+M0085,Saffron Eatery,45 MG Marg,Pune,Maharashtra,Kiran Shah,9920134567,kiran.shah@gmail.com,2022-05-05 16:24:17
+M0086,Green House,31 Station Road,Guwahati,Assam,Reena Das,9801243567,reena.das@gmail.com,2020-01-14 19:41:29
+M0087,Curry Corner,2 MG Marg,Kolkata,West Bengal,Mohammed Ali,9876123450,mohammed.ali@gmail.com,2024-06-02 17:03:33
+M0088,Rustic Kitchen,55 Jubilee Road,Jaipur,Rajasthan,Aarav Singh,9987012345,aarav.singh@gmail.com,2021-12-25 20:30:05
+M0089,Garden Dhaba,103 Park Street,Kolkata,West Bengal,Navpreet Singh,9456012345,navpreet.singh@gmail.com,2020-09-11 12:18:22
+M0090,Blue Eatery,11 Station Road,Chennai,Tamil Nadu,Arjun Iyer,9087123456,arjun.iyer@gmail.com,2023-02-17 14:22:47
+M0091,Pepper Point,84 Dewan Road,Surat,Gujarat,Divya Mehta,9456123789,divya.mehta@gmail.com,2021-08-26 19:01:33
+M0092,Tasty Cafe,8 South End Road,Kolkata,West Bengal,Ashish Sen,9876503214,ashish.sen@gmail.com,2022-10-30 10:14:59
+M0093,Golden Cafe,19 Park Street,Kolkata,West Bengal,Harsha Banerjee,9012340675,harsha.banerjee@gmail.com,2023-09-13 15:38:26
+M0094,Sonic Grill,31 Station Road,Mumbai,Maharashtra,Uma Sharma,9870142356,uma.sharma@gmail.com,2020-11-05 17:22:58
+M0095,Pepper Nook,59 Dover Lane,Kolkata,West Bengal,Rahul Mitra,9701342568,rahul.mitra@gmail.com,2021-04-01 08:19:11
+M0096,Urban Eatery,2 Sector 12,Amritsar,Punjab,Simran Kaur,9981203456,simran.kaur@gmail.com,2024-03-27 13:29:54
+M0097,Green Cafe,7 Gandhi Road,Delhi,Delhi,Harsh Jain,9876210345,harsh.jain@gmail.com,2019-09-30 21:17:13
+M0098,Spice Garden,20 MG Road,Chennai,Tamil Nadu,Neeraj Kumar,9087213456,neeraj.kumar@gmail.com,2022-08-16 18:54:47
+M0099,Blue Eatery,85 Park Street,Kolkata,West Bengal,Rajdeep Mitra,9012678450,rajdeep.mitra@gmail.com,2020-05-11 10:10:05
+M0100,Mango Bistro,14 High Street,Bangalore,Karnataka,Priya Rao,9821345670,priya.rao@gmail.com,2021-07-07 16:44:59

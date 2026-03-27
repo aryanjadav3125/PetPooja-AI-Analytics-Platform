@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #f0f5ff;
+  --color-brand-100: #e0ebff;
+  --color-brand-200: #b8d1ff;
+  --color-brand-300: #85b3ff;
+  --color-brand-400: #528eff;
+  --color-brand-500: #2563eb;
+  --color-brand-600: #1d4ed8;
+  --color-brand-700: #1e40af;
+  --color-brand-800: #1e3a8a;
+  --color-brand-900: #172554;
+
+  --color-surface: #0f1117;
+  --color-surface-2: #1a1d2e;
+  --color-surface-3: #242838;
+  --color-surface-card: #1e2235;
+  --color-surface-hover: #2a2f45;
+  --color-border: #2e3348;
+  --color-text: #e8eaed;
+  --color-text-muted: #9ca3af;
+  --color-text-dim: #6b7280;
+
+  --color-profit: #22c55e;
+  --color-loss: #ef4444;
+  --color-warning: #f59e0b;
+  --color-info: #3b82f6;
+
+  --color-star: #facc15;
+  --color-puzzle: #a78bfa;
+  --color-plowhorse: #fb923c;
+  --color-dog: #f87171;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ── Global base ──────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+}
+
+/* ── Scrollbar ────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-surface);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+/* ── Animations ───────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(37, 99, 235, 0.3); }
+  50%      { box-shadow: 0 0 16px 4px rgba(37, 99, 235, 0.15); }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out both;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--color-surface-2) 25%, var(--color-surface-3) 50%, var(--color-surface-2) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 6px;
+}
+
+/* ── Glass card ───────────────────────────────────────── */
+.glass-card {
+  background: linear-gradient(135deg, rgba(30,34,53,0.85), rgba(26,29,46,0.95));
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+  backdrop-filter: blur(12px);
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+.glass-card:hover {
+  border-color: var(--color-brand-500);
+  box-shadow: 0 4px 24px rgba(37,99,235,0.08);
+  transform: translateY(-1px);
+}
+
+/* ── Recharts overrides ───────────────────────────────── */
+.recharts-cartesian-axis-tick-value {
+  fill: var(--color-text-muted) !important;
+  font-size: 11px;
+}
+.recharts-legend-item-text {
+  color: var(--color-text-muted) !important;
+}
