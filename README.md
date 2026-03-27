@@ -144,12 +144,8 @@ npm run dev
 
 ---
 
-## 💼 Recruiter Context
+“I built an AI-powered restaurant intelligence system that leverages machine learning models like Random Forest, Regression, and Apriori to predict demand, optimize pricing, and generate combo recommendations. It also includes a voice-based ordering assistant that automates phone orders and performs real-time upselling. The goal was to convert raw PoS data into actionable business decisions.”
 
-### 🎤 Interview Pitch
-> “I built an AI-powered restaurant intelligence system that leverages machine learning models like Random Forest, Regression, and Apriori to predict demand, optimize pricing, and generate combo recommendations. It also includes a voice-based ordering assistant that automates phone orders and performs real-time upselling. The goal was to convert raw PoS data into actionable business decisions.”
-
-### 📝 Resume Bullet
 * Developed an **AI-powered restaurant analytics & voice automation platform** using Next.js, Supabase, and ML models (Random Forest, Regression, Apriori), enabling demand forecasting, revenue optimization, and real-time upselling.
 
 ---
@@ -163,4 +159,3 @@ npm run dev
 
 ---
 
-> *"This project is not just a dashboard. It is a **decision intelligence system** designed to increase revenue, automate operations, and enable data-driven restaurants."*
