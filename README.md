@@ -3,9 +3,10 @@
   <p><strong>An AI-powered decision intelligence platform that transforms restaurant PoS data into real-time revenue optimization, demand forecasting, and automated voice ordering.</strong></p>
 </div>
 
-![PetPooja AI UI]("E:\Projects\PetPooja Hack-a-Mind\PetPooja-AI Analytics Platform\Images\Screenshot 2026-03-07 121823.png") 
+![PetPooja AI UI]("PetPooja-AI Analytics Platform\Images\Screenshot 2026-03-07 121823.png") 
 
 ---
+
 
 ## 🧠 Overview
 
@@ -102,17 +103,17 @@ Built on the Demand Model, predicts stock exhaustion timelines.
 | **Backend** | Supabase (PostgreSQL + APIs), Next.js Server Actions |
 | **Machine Learning** | Scikit-learn, XGBoost, Apriori Algorithm |
 | **AI / Voice** | LLM APIs (OpenAI / OpenRouter), Speech-to-Text, Text-to-Speech |
-
 ---
 
 ## 🚀 Quick Start
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/petpooja-ai.git
+git clone https://github.com/aryanjadav3125/petpooja-ai.git
 cd petpooja-ai
 npm install
 ```
+
 
 ### 2. Configure Environment
 ```bash
