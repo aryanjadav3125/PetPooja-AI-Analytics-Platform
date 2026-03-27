@@ -3,7 +3,7 @@
   <p><strong>An AI-powered decision intelligence platform that transforms restaurant PoS data into real-time revenue optimization, demand forecasting, and automated voice ordering.</strong></p>
 </div>
 
-![PetPooja AI UI]("PetPooja-AI Analytics Platform\Images\Screenshot 2026-03-07 121823.png") 
+![PetPooja AI UI]("Images\Screenshot 2026-03-07 121823.png") 
 
 ---
 
